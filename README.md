@@ -1,1 +1,1 @@
-# Github-First-Action
+# GH-First-Action
